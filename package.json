@@ -1,0 +1,30 @@
+{
+  "name": "css-runtime-theme",
+  "version": "1.0.0",
+  "description": "This script allow you to generate color.less which will enable you to change theme in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "theme",
+    "theming",
+    "lessjs"
+  ],
+  "author": {
+    "name": "mzohaibqc",
+    "url": "https://github.com/mzohaibqc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mzohaibqc/css-runtime-theme"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "less": "^3.8.0",
+    "postcss": "^7.0.1",
+    "postcss-colors-only": "^0.0.3"
+  }
+}
