@@ -23,7 +23,6 @@
   "license": "ISC",
   "dependencies": {
     "glob": "^7.1.2",
-    "less": "^3.8.0",
     "postcss": "^7.0.1",
     "postcss-colors-only": "^0.0.3"
   }
